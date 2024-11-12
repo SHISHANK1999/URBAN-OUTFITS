@@ -1,5 +1,3 @@
-Creating a README file for an e-commerce project using JavaScript and React can help outline the project’s goals, setup instructions, features, and usage details for contributors and users. Here’s a sample README for your project:
-
 🛒 E-Commerce React App
 
 An e-commerce web application built with React and JavaScript. This project simulates an online shopping platform with product listings, a shopping cart, and various product filtering and sorting features.
@@ -83,8 +81,6 @@ In the project directory, you can run the following scripts:
 	•	npm test: Launches the test runner.
 	•	npm run build: Builds the app for production.
 	•	npm run eject: Ejects the app from Create React App configuration (only if needed).
-
-📷 Screenshots
 
 🤝 Contributing
 
